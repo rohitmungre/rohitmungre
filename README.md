@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
+
+I am Rohit, a quantitative software developer.
+I currently live in London, UK, was born and raised in Indore, India. 
+
+- www.rohitmungre.com
+- Most of my social accounts have username = rohitmungre. 
 
 <!--
 **rohitmungre/rohitmungre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
