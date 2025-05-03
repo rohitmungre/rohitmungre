@@ -6,7 +6,7 @@ I currently live in London, UK, was born and raised in Indore, India.
 I consider myself language agnostic but these days I am focusing on python, rust, & javascript. In the past, I have professionally developed in c++ and java. 
 
 - www.rohitmungre.com
-- Most of my social accounts have username == `rohitmungre`, including:
+- Most of my social accounts have `"username" == "rohitmungre"`, including:
   - [Twitter/X](https://x.com/rohitmungre)
   - [Instagram](https://www.instagram.com/rohitmungre/)
   - [Facebook](https://www.facebook.com/rohitmungre/)
