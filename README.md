@@ -1,10 +1,11 @@
 ## Hi there! 👋
 
-I am Rohit, a quantitative software developer.
-I currently live in London, UK, was born and raised in Indore, India. 
+I am Rohit, a quantitative software developer based in London, UK.
+I have developed trading and analytical systems for institutions across investment banking, hedge funds, commodity trading, and gaming.
 
-I consider myself language agnostic but these days I am focusing on python, rust, & javascript. In the past, I have professionally developed in c++ and java. 
+I consider myself language agnostic but these days I am focusing on `Python`, `Rust`, & `Javascript`. In the past, I have professionally developed in `C++` and `java`. 
 
+### Contact
 - www.rohitmungre.com
 - Most of my social accounts have `"username" == "rohitmungre"`, including:
   - [Twitter/X](https://x.com/rohitmungre)
