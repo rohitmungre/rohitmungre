@@ -7,11 +7,7 @@ I consider myself language agnostic but these days I am focusing on `Python`, `R
 
 ### Contact
 - www.rohitmungre.com
-- Most of my social accounts have `"username" == "rohitmungre"`, including:
-  - [Twitter/X](https://x.com/rohitmungre)
-  - [Instagram](https://www.instagram.com/rohitmungre/)
-  - [Facebook](https://www.facebook.com/rohitmungre/)
-  - [Pinterest](https://in.pinterest.com/rohitmungre/)
+- Most of my social accounts have `"username" == "rohitmungre"`, including: [Twitter/X](https://x.com/rohitmungre), [Instagram](https://www.instagram.com/rohitmungre/), [Facebook](https://www.facebook.com/rohitmungre/), [Pinterest](https://in.pinterest.com/rohitmungre/)
 
 <!--
 **rohitmungre/rohitmungre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
