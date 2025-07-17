@@ -1,11 +1,10 @@
 ## Hi there! 👋
 
 I am Rohit, a quantitative software developer based in London, UK.
-I have developed high performance trading and analytical systems for institutions across investment banking, hedge funds, commodity trading, and gaming.
+I have developed high performance trading & analytical systems and led multidisciplinary teams for institutions across investment banking, hedge funds, commodity trading, and gaming.
 I consider myself language agnostic but these days I am focusing on `Python`, `Rust`, & `Javascript`. In the past, I have professionally developed in `c++`, `nodejs` and `java`. 
 
-### Contact
-- www.rohitmungre.com
+- www.rohitmungre.com - my personal website
 - Most of my social accounts have `"username" == "rohitmungre"`, including: [Twitter/X](https://x.com/rohitmungre), [Instagram](https://www.instagram.com/rohitmungre/), [Facebook](https://www.facebook.com/rohitmungre/), [Pinterest](https://in.pinterest.com/rohitmungre/)
 
 <!--
