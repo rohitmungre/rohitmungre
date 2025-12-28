@@ -2,10 +2,29 @@
 
 I am Rohit, a quantitative software developer based in London, UK.
 I have developed high performance trading & analytical systems for institutions across investment banking, hedge funds, commodity trading, and gaming.
-I consider myself language agnostic but these days I am focusing on `Python`, `Rust`, & `Javascript`. In the past, I have professionally developed in `c++`, `nodejs` and `java`. 
+I consider myself language agnostic but these days I am focusing on `Python`, `Rust`, & `React`. In the past, I have professionally developed in `c++`, `nodejs` and `java`. 
 
 - www.rohitmungre.com - my personal website
-- Most of my social accounts have `"username" == "rohitmungre"`, including: [Twitter/X](https://x.com/rohitmungre), [Instagram](https://www.instagram.com/rohitmungre/), [Facebook](https://www.facebook.com/rohitmungre/), [Pinterest](https://in.pinterest.com/rohitmungre/)
+- Most of my social accounts have `"username" == "rohitmungre"`, including:
+<a href="https://www.linkedin.com/in/rohitmungre/">
+  <img align="left" color="white" alt="Rohit's LinkdeIN" width="22px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
+</a>
+
+<a href="https://www.x.com/rohitmungre/">
+  <img align="left" color="white" alt="Rohit's X" width="22px" src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000" />
+</a>
+
+<a href="https://www.instagram.com/rohitmungre/">
+  <img align="left" color="white" alt="Rohit's Insta" width="22px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />
+</a>
+
+<a href="https://www.facebook.com/rohitmungre/">
+  <img align="left" color="white" alt="Rohit's FB" width="22px" src="https://img.icons8.com/?size=100&id=114441&format=png&color=000000" />
+</a>
+
+<a href="https://in.pinterest.com/rohitmungre/">
+  <img align="left" alt="Raheel's Pinterest" width="22px" src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" />
+</a>
 
 <!--
 **rohitmungre/rohitmungre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
