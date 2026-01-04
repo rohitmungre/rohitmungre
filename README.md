@@ -22,8 +22,13 @@ I have developed high performance trading & analytical systems for institutions 
 </a>
 
 <a href="https://in.pinterest.com/rohitmungre/">
-  <img align="left" alt="Raheel's Pinterest" width="22px" src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" />
+  <img align="left" alt="Rohit's Pinterest" width="22px" src="https://img.icons8.com/?size=100&id=63676&format=png&color=000000" />
 </a>
+
+<a href="https://rohitmungre.substack.com/">
+  <img align="left" alt="Rohit's Substack" width="22px" src="https://img.icons8.com/?size=100&id=kHWlfaZU7HRa&format=png&color=000000" />
+</a>
+
 
 <!--
 **rohitmungre/rohitmungre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
