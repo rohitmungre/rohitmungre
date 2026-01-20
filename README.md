@@ -29,6 +29,18 @@ I have developed high performance trading & analytical systems for institutions 
   <img align="left" alt="Rohit's Substack" width="22px" src="https://img.icons8.com/?size=100&id=kHWlfaZU7HRa&format=png&color=000000" />
 </a>
 
+<a href="https://leetcode.com/u/rohitmungre/">
+  <img align="left" alt="Rohit's Leetcode" width="22px" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/rohitmungre/">
+  <img align="left" alt="Rohit's HackerRank" width="22px" src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" />
+</a>
+
+
+
+
+
 
 <!--
 **rohitmungre/rohitmungre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
