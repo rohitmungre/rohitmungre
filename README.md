@@ -43,6 +43,9 @@ I have led the development of high performance trading & analytical systems for 
 
 
 <!--
+
+These days deep into vibe coding mode. 
+
 **rohitmungre/rohitmungre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
