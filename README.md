@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 I am Rohit, a quantitative software developer based in London, UK.
-I have led the development of high performance trading & analytical systems for institutions across investment banking, hedge funds, commodity trading, and gaming.
+I have developed of high performance trading & analytical systems for institutions across investment banking, hedge funds, commodity trading, and gaming.
 
 - www.rohitmungre.com - my personal website
 - Most of my social accounts have `"username" == "rohitmungre"`, including:
